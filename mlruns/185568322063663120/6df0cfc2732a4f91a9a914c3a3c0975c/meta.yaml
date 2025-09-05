@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/185568322063663120/6df0cfc2732a4f91a9a914c3a3c0975c/artifacts
+end_time: 1757011974748
+entry_point_name: ''
+experiment_id: '185568322063663120'
+lifecycle_stage: active
+run_id: 6df0cfc2732a4f91a9a914c3a3c0975c
+run_name: LSTM_on_Text
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757011358752
+status: 3
+tags: []
+user_id: abhmandl

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/819327471487822976/60b46630cfdc4beab8ba17f8f65fba78/artifacts
+end_time: 1756926886540
+entry_point_name: ''
+experiment_id: '819327471487822976'
+lifecycle_stage: active
+run_id: 60b46630cfdc4beab8ba17f8f65fba78
+run_name: AGNews_Training
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756921947708
+status: 3
+tags: []
+user_id: abhmandl

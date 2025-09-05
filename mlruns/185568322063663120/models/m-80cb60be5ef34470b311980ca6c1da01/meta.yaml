@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/185568322063663120/models/m-80cb60be5ef34470b311980ca6c1da01/artifacts
+creation_timestamp: 1757011357212
+experiment_id: '185568322063663120'
+last_updated_timestamp: 1757011358740
+model_id: m-80cb60be5ef34470b311980ca6c1da01
+model_type: ''
+name: cnn
+source_run_id: 1a9eddf801a642f680124ee1ba35f36e
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/819327471487822976/73c5859839544b6e966607a881f62249/artifacts
+end_time: 1756926800165
+entry_point_name: ''
+experiment_id: '819327471487822976'
+lifecycle_stage: active
+run_id: 73c5859839544b6e966607a881f62249
+run_name: LogReg_on_BERT
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756926747523
+status: 3
+tags: []
+user_id: abhmandl

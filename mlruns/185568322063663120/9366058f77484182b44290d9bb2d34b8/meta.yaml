@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/185568322063663120/9366058f77484182b44290d9bb2d34b8/artifacts
+end_time: 1757010231959
+entry_point_name: ''
+experiment_id: '185568322063663120'
+lifecycle_stage: active
+run_id: 9366058f77484182b44290d9bb2d34b8
+run_name: ANN_on_BoW
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757010231479
+status: 4
+tags: []
+user_id: abhmandl

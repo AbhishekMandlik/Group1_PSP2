@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/819327471487822976
+creation_time: 1756921188286
+experiment_id: '819327471487822976'
+last_update_time: 1756921188286
+lifecycle_stage: active
+name: AGNews_BERT_and_Baselines

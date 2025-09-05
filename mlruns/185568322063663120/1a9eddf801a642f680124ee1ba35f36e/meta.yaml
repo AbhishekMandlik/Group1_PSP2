@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/185568322063663120/1a9eddf801a642f680124ee1ba35f36e/artifacts
+end_time: 1757011358745
+entry_point_name: ''
+experiment_id: '185568322063663120'
+lifecycle_stage: active
+run_id: 1a9eddf801a642f680124ee1ba35f36e
+run_name: CNN_on_Text
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757011039821
+status: 3
+tags: []
+user_id: abhmandl

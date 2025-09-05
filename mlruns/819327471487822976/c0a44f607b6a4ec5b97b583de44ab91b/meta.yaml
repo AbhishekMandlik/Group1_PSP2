@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/819327471487822976/c0a44f607b6a4ec5b97b583de44ab91b/artifacts
+end_time: 1756921195982
+entry_point_name: ''
+experiment_id: '819327471487822976'
+lifecycle_stage: active
+run_id: c0a44f607b6a4ec5b97b583de44ab91b
+run_name: NB_on_TFIDF
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756921188433
+status: 3
+tags: []
+user_id: abhmandl

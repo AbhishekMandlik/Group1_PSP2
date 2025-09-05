@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/819327471487822976/1030447eeac6445aae712198a7ff15a6/artifacts
+end_time: 1756926886504
+entry_point_name: ''
+experiment_id: '819327471487822976'
+lifecycle_stage: active
+run_id: 1030447eeac6445aae712198a7ff15a6
+run_name: SVM_on_BERT
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756926800211
+status: 3
+tags: []
+user_id: abhmandl
