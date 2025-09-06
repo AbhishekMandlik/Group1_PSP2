@@ -1,0 +1,10 @@
+artifact_location: file:///Users/abhmandl/Codes/root/mlruns/766106594163168927/models/m-53c5159be14748c2a6f3ddea0c4e6e1a/artifacts
+creation_timestamp: 1757140943209
+experiment_id: '766106594163168927'
+last_updated_timestamp: 1757140945319
+model_id: m-53c5159be14748c2a6f3ddea0c4e6e1a
+model_type: null
+name: ann_model
+source_run_id: 4fbbb0313e9f40eeaab240d7efe294c3
+status: 2
+status_message: null

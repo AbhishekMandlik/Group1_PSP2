@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/abhmandl/Codes/root/mlruns/766106594163168927/602246032d7d46d1b043555e386e2920/artifacts
+end_time: 1757140864863
+entry_point_name: ''
+experiment_id: '766106594163168927'
+lifecycle_stage: active
+run_id: 602246032d7d46d1b043555e386e2920
+run_name: ANN_hidden128_drop0.3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757140811973
+status: 3
+tags: []
+user_id: abhmandl
